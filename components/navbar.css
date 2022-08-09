@@ -1,0 +1,11 @@
+.end{
+    position:fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(226, 223, 228);
+    bottom: 0;
+
+    
+
+}

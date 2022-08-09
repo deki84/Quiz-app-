@@ -1,0 +1,53 @@
+
+
+.question-car{
+    display: flexbox;
+    justify-content: content;
+}
+
+
+.question-bookmark{
+    display: flex;
+    justify-content: center;
+
+   
+   }
+
+   .bookmark{
+    position: absolute;
+    width: 10vh;
+    top:20px;
+    right: 30px;
+    
+    
+     }
+
+   .first-text{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: -150px;
+    top: -30px;
+    left: 160px;
+    color: black;
+   }
+
+
+   .click{
+    position: absolute;
+    margin: -90px;
+    
+  
+    
+}
+
+
+   .tags{
+    position: relative;
+    display: flex; 
+    justify-content: center;
+    gap: 20px;
+    top: -60px
+
+
+   }
